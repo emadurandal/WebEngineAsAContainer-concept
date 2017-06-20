@@ -1,6 +1,6 @@
-# WebEngineAsAContainer-concept
+# WebEngine as a Container - concept
 
-WEaaC (WebEngineAsAContainer) gives you infinite technical choices
+WEaaC (WebEngine as a Container) gives you infinite technical choices
 
 # Concept Story
 
